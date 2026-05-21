@@ -138,6 +138,52 @@ var destinations = [
         location: [-0.625, 100.121],
         description: "Taman Anas Malik menjadi ruang terbuka favorit untuk menikmati semilir angin laut dan wajah Kota Pariaman."
     },
+    {
+        name: "Konservasi Penyu",
+        location: [-0.651, 100.129],
+        description: "Destinasi ini menghadirkan pengalaman langka melihat pelestarian penyu sekaligus menikmati keindahan pasir pariaman."
+    },
+    {
+        name: "Pantai Sunur",
+        location: [-0.676, 100.146],
+        description: "Pantai Sunur menawarkan garis pantai panjang denga suasana tenang yang cocok untuk menikmati debur ombak."
+    },
+    {
+        name: "Pulau Siberut",
+        location: [-1.156, 99.192],
+        description: "Pulau Siberut menghadirkan hutan hujan tropis, budaya suku Mentawai yang autentik dan petualangan alam yang begitu liar dan murni."
+    },
+    {
+        name: "Pantai Mapadegat",
+        location: [-2.085, 99.655],
+        description: "Pantai Mapadaget menawarkan pasir putih panjang dan ombak tenang yang sempurna untuk menikmati senja tropis Mentawai."
+    },
+    {
+        name: "Pulau Sipora",
+        location: [-2.083, 99.733],
+        description: "Pulau Sipora memikat dengan perpaduan laut biru jernih, budaya lokal, dan suasana pulau yang damai."
+    },
+    {
+        name: "Pulau Pagai Utara",
+        location: [-2.597, 100.112],
+        description: "Pulau Pagai Utara menghadirkan panorama panatai alami dan ombak kelas dunia yang diburu para peselancar internasional."
+    },
+    {
+        name: "Pulau Pagai Seletan",
+        location: [-3.067, 100.381],
+        description: "Pulau Pagai Selatan menawarkan ketenangan tropis dengan hamparan laut luas dan desa-desa pesisir yang masih alami."
+    },
+    {
+        name: "Penginapan Awera Resort",
+        location: [-2.233, 99.817],
+        description: "Awera Resort menyuguhkan pengalaman menginap di tengah laut biru mentawai dengan panorama ekslusif dan suasana tropis mewah."
+    },
+    {
+        name: "Pantai Jati",
+        location: [-2.117, 99.742],
+        description: "Pantai Jati menawarkan pasir lembut, deburan ombak tenang, dan suasana santai khas kepulauan tropis."
+    },
+        
 ];
 
 // Menambahkan marker ke peta
