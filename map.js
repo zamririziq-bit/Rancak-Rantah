@@ -36,7 +36,7 @@ var destinations = [
     {
         name: "Gunuang Padang",
         location: [-0.965, 100.349],
-        description: "Kota wisata terkenal dengan Jam Gadang dan panorama Ngarai Sianok."
+        description: "Di puncak Gunung Padang, Kota Padang terbentang seperti lukisan raksasa, laut biru berpadu dengan kisah legenda yang masih berembus bersama angin senja."
     }
 ];
 
