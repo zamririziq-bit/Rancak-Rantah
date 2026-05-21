@@ -34,7 +34,7 @@ var destinations = [
         description: "Kota wisata terkenal dengan Jam Gadang dan panorama Ngarai Sianok."
     },
     {
-        name: "Gunuang Padang",
+        name: "Gunung Padang",
         location: [-0.965, 100.349],
         description: "Di puncak Gunung Padang, Kota Padang terbentang seperti lukisan raksasa, laut biru berpadu dengan kisah legenda yang masih berembus bersama angin senja."
     },
@@ -97,6 +97,46 @@ var destinations = [
         name: "Pantai Ujung Batu Muaro Penjalinan",
         location: [-0.817, 100.272],
         description: "Pantai Ujung Batu menawarkan panorama laut dengan batu karang alami yang mempercantik garis pantai."
+    },
+    {
+        name: "Pantai Gandoriah",
+        location: [-0.626, 100.120],
+        description: "Pantai Gandoriah menjadi wilayah utama Pariaman dengan hamparan laut tenang, kereta wisata, dan sunset yang terasa hangat di tepi samudera."
+    },
+    {
+        name: "Pulo Angso Duo",
+        location: [-0.617, 100.111],
+        description: "Pulau Angso Duo menawarkan pasir putih dan air laut jernih yang membuat wisatawan serasa hingga di pulau tropis tersembunyi."
+    },
+    {
+        name: "Pantai Kata",
+        location: [-0.634, 100.117],
+        description: "Pantai Kata menghadirkan suasana santai dengan deretan pohin cemara dan panorama matahari tenggelam yang memikat."
+    },
+    {
+        name: "Pantai Cermin",
+        location: [-0.603, 100.109],
+        description: "Pantai Cermin memanjakan pengunjung dengan ombak tenang dan panorama laut biru yang cocok untuk wisata keluarga."
+    },
+    {
+        name: "Pantai Apar",
+        location: [-0.647, 100.125],
+        description: "Pantai Apar terkenal dengan kawasan mangrove dan jalur tracking yang menghadirkan nuansa alam pesisir yang asri."
+    },
+    {
+        name: "Pulau Kasiak",
+        location: [-0.602, 100.102],
+        description: "Pulau Kasiak menjadi surga kecil bagi pecinta snorkeling dengan terumbu karang dan laut sebening kristal."
+    },
+    {
+        name: "Pantai Arta",
+        location: [-0.640, 100.130],
+        description: "Pantai Arta menghadirkan perpaduan pasir pantai dan suasana teduh yang cocok untuk menikmati sore bersama keluarga."
+    },
+    {
+        name: "Taman Anas Malik",
+        location: [-0.625, 100.121],
+        description: "Taman Anas Malik menjadi ruang terbuka favorit untuk menikmati semilir angin laut dan wajah Kota Pariaman."
     },
 ];
 
