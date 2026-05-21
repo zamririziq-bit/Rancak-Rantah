@@ -37,7 +37,67 @@ var destinations = [
         name: "Gunuang Padang",
         location: [-0.965, 100.349],
         description: "Di puncak Gunung Padang, Kota Padang terbentang seperti lukisan raksasa, laut biru berpadu dengan kisah legenda yang masih berembus bersama angin senja."
-    }
+    },
+    {
+        name: "Pantai Air Manis",
+        location: [-0.989, 100.362],
+        description: "Pantai Air Manis memadukan pasir cokelat, ombak tenang, dan legenda Batu Malin Kundang yang menjadikan setiap langkah terasa penuh cerita."
+    },
+    {
+        name: "Pantai Padang",
+        location: [-0.942, 100.351],
+        description: "Pantai Padang adalah tempat terbaik menikmati sunset sambil melihat garis laut yang memeluk hiruk-pikuk kota."  
+    },
+    {
+        name: "Pantai Nirwana",
+        location: [-1.006, 100.394],
+        description: "Pantai Nirwana menawarkan laut biru jernih dan suasana tenang yang terasa seperti sudut rahasia di pesisir padang."
+    },
+    {
+        name: "Pantai Pasir Jambak",
+        location: [-0.857, 100.292],
+        description: "Hamparan pasir luas dan deretan pohon kelapa menjadikan Pantai Pasir Jambak sempurna untuk menikmati senja tropis."
+    },
+    {
+        name: "Jembatan Siti Nurbaya",
+        location: [-0.960, 100.360],
+        description: "Jembatan Siti Nurbaya menghadirkan panorama kota, pelabuhan, dan kisah cinta legendaris yang melekat pada kota padang."
+    },
+    {
+        name: "Pulau Pasumpahan",
+        location: [-1.119, 100.363],
+        description: "Pulau Pasumpahan menawarkan perpaduan laut biru, bukit hijau, dan panorama bawah laut yang memanjakan mata."
+    },
+    {
+        name: "Pulau Sirandah",
+        location: [-1.177, 100.365],
+        description: "Pulau SIrandah memikat wistawan dengan pasir putih, air laut sebening kaca, dan ketenangan pulau tropis."
+    },
+    {
+        name: "Air Terjun Lubuk Hitam",
+        location: [-1.107, 100.428],
+        description: "Air Terjun Lubuk Hitam menghadiahkan kesegaran alami dengan air jernih yang mengakir di tengah hutan tropis."
+    },
+    {
+        name: "Goa Kelelawar Padayo",
+        location: [-0.889, 100.452],
+        description: "Goa Kelelawar Padayo menghadirkan petualangan unik dengan lorong alami yang dipenuhi nuansa eksotis."
+    },
+    {
+        name: "Teluk Buo",
+        location: [-0.905, 100.313],
+        description: "Teluk Buo menghadirkan perpaduan laut tenang dan perbukitan hijau yang menciptakan suasana damai."
+    },
+    {
+        name: "Batu Malin Kundang",
+        location: [-0.992, 100.361],
+        description: "Batu Malin Kundang menjadi ikon legenda rakyat Minangkabau yang menarik wisatawan dari berbagai daerah."
+    },
+    {
+        name: "Pantai Ujung Batu Muaro Penjalinan",
+        location: [-0.817, 100.272],
+        description: "Pantai Ujung Batu menawarkan panorama laut dengan batu karang alami yang mempercantik garis pantai."
+    },
 ];
 
 // Menambahkan marker ke peta
