@@ -33,6 +33,11 @@ var destinations = [
         location: [-0.305, 100.369],
         description: "Kota wisata terkenal dengan Jam Gadang dan panorama Ngarai Sianok."
     }
+    {
+        name: "Gunuang Padang",
+        location: [-0.965, 100.349],
+        description: "Kota wisata terkenal dengan Jam Gadang dan panorama Ngarai Sianok."
+    }
 ];
 
 // Menambahkan marker ke peta
