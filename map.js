@@ -37,7 +37,7 @@ var destinations = [
         name: "Gunuang Padang",
         location: [-0.965, 100.349],
         description: "Di puncak Gunung Padang, Kota Padang terbentang seperti lukisan raksasa, laut biru berpadu dengan kisah legenda yang masih berembus bersama angin senja."
-    }.
+    }
 ];
 
 // Menambahkan marker ke peta
