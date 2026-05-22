@@ -183,6 +183,35 @@ var destinations = [
         location: [-2.117, 99.742],
         description: "Pantai Jati menawarkan pasir lembut, deburan ombak tenang, dan suasana santai khas kepulauan tropis."
     },
+    {
+        name: "Desa Wisata Matotonan",
+        location: [-1.480, 99.280],
+        description: "Desa Matotonan membawa wisatawan menyelami budaya asli Mentawai melalui rumah adat Uma dan tradisi leluhur yang masih terjaga."
+    },
+    {
+        name: "Pantai Katiet Beach",
+        location: [-2.339, 99.938],
+        description: "Katiet Beach dikenal sebagai surga surfing dunia dengan ombak ikonik yang menantang adrenalin."
+    },
+    {
+        name: "Pulau Masokut",
+        location: [-2.187, 99.731],
+        description: "Pulau Masokut menghadirkan laut sebening kristal dan suasana pulau kecil yang cocok untuk melepas penat dari hiruk-pikuk kota."
+    },
+    {
+        name: "Pantai Nyangnyang",
+        location: [-2.275, 99.865],
+        description: "Pantai Nyangnyang menawarkan panorama laut lepas dan ketenangan alami khas kepulauan mentawai."
+    },
+    {
+        name: "Pulau Simakakang",
+        location: [-2.173, 99.719],
+        description: "Pulau Simakakang memanjakan mata wisatawan dengan pantai eksotis dan suasana tropis yang masih sangat alami."
+    },
+    {
+        name: "Pantai Jati",
+        location: [-2.117, 99.742],
+        description:
         
 ];
 
