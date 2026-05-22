@@ -209,8 +209,13 @@ var destinations = [
         description: "Pulau Simakakang memanjakan mata wisatawan dengan pantai eksotis dan suasana tropis yang masih sangat alami."
     },
     {
-        name: "Pantai Jati",
-        location: [-2.117, 99.742],
+        name: "Pulau Belibis",
+        location: [-0.792, 100.655],
+        description: "Pulau Belibis menghadirkan taman hijau yang sejuk dengan telaga alami dan suasana santai yang cocok untuk melepas penat dari hiruk-pikuk kota."
+    },
+    {
+        name: "Laing Park",
+        location: [-0.770, 100.641],
         description:
         
 ];
