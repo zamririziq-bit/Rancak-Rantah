@@ -1057,14 +1057,7 @@ var destinations = [
         name: "Puncak Batu Runcing",
         location: [-0.695, 100.790],
         description: "Puncak Batu Runcing menghadirkan panorama alam yang luas dengan perbukitan hijau yang mengelilingi Kota Sawahlunto."
-    },
-    
-    
-    
-    
-        
-        
-        
+    }       
 ];
 
 // Menambahkan marker ke peta
