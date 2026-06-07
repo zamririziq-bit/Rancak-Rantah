@@ -1065,9 +1065,9 @@ destinations.forEach(function(place) {
 
     var marker = L.marker(place.location).addTo(map);
 
-    marker.bindPopup(
-        "<b>" + place.name + "</b><br>" +kabupa
-        place.description
-    );
+   marker.bindPopup(
+     "<b>" + place.name + "</b><br>" +
+     place.description
+);
 
 });
