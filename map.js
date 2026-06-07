@@ -504,9 +504,9 @@ var destinations = [
         description: "Kawasan agrowisata yang memperkenalkan berbagai komoditas pertanian serta suasana pedesaan yang asri."
     },
     {
-    name: "Lembah Harau",
-    location: [-0.113, 100.666],
-    description: "Lembah Harau menghadirkan tebing granit raksasa yang menjulang tinggi, air terjun alami, serta hamparan sawah hijau yang menciptakan panorama bak negeri dongeng."
+        name: "Lembah Harau",
+        location: [-0.113, 100.666],
+        description: "Lembah Harau menghadirkan tebing granit raksasa yang menjulang tinggi, air terjun alami, serta hamparan sawah hijau yang menciptakan panorama bak negeri dongeng."
     },
     {
         name: "Kelok Sembilan",
@@ -564,9 +564,9 @@ var destinations = [
         description: "Jembatan bersejarah ini menjadi saksi perjuangan masa lalu sekaligus tempat menikmati panorama alam Kota Payakumbuh dan sekitarnya."
     },
     {
-    name: "Pantai Tiram",
-    location: [-0.786, 100.251],
-    description: "Pantai Tiram menawarkan hamparan pasir yang luas, deburan ombak yang tenang, dan panorama matahari terbenam yang memikat hati wisatawan."
+        name: "Pantai Tiram",
+        location: [-0.786, 100.251],
+        description: "Pantai Tiram menawarkan hamparan pasir yang luas, deburan ombak yang tenang, dan panorama matahari terbenam yang memikat hati wisatawan."
     },
     {
         name: "Pantai Kata",
@@ -624,9 +624,9 @@ var destinations = [
         description: "Pantai Sunua menawarkan pemandangan laut yang luas dengan suasana tenang yang cocok untuk menikmati keindahan pesisir Sumatera Barat."
     },
     {
-    name: "Equator Bonjol",
-    location: [0.017, 100.214],
-    description: "Equator Bonjol menjadi destinasi unik tempat garis khatulistiwa melintasi Sumatera Barat, menawarkan pengalaman berdiri tepat di tengah bumi bagian utara dan selatan."
+        name: "Equator Bonjol",
+        location: [0.017, 100.214],
+        description: "Equator Bonjol menjadi destinasi unik tempat garis khatulistiwa melintasi Sumatera Barat, menawarkan pengalaman berdiri tepat di tengah bumi bagian utara dan selatan."
     },
     {
         name: "Museum Tuanku Imam Bonjol",
@@ -684,9 +684,9 @@ var destinations = [
         description: "Puncak Alai menghadirkan pemandangan matahari terbit yang memukau dengan latar perbukitan hijau yang memesona."
     },
     {
-    name: "Pantai Sasak",
-    location: [0.215, 99.685],
-    description: "Pantai Sasak menawarkan hamparan pasir yang luas, deburan ombak Samudra Hindia, dan panorama matahari terbenam yang memukau."
+        name: "Pantai Sasak",
+        location: [0.215, 99.685],
+        description: "Pantai Sasak menawarkan hamparan pasir yang luas, deburan ombak Samudra Hindia, dan panorama matahari terbenam yang memukau."
     },
     {
         name: "Pulau Pigago",
@@ -819,9 +819,9 @@ var destinations = [
         description: "Pulau Pagang terkenal dengan pasir putih yang lembut dan laut berwarna biru toska yang menjadi favorit wisatawan."
     },
     {
-    name: "Perkampungan Adat Nagari Sijunjung",
-    location: [-0.687, 100.954],
-    description: "Perkampungan adat ini menghadirkan deretan Rumah Gadang berusia ratusan tahun yang menjadi warisan budaya Minangkabau dan telah diakui sebagai warisan dunia."
+        name: "Perkampungan Adat Nagari Sijunjung",
+        location: [-0.687, 100.954],
+        description: "Perkampungan adat ini menghadirkan deretan Rumah Gadang berusia ratusan tahun yang menjadi warisan budaya Minangkabau dan telah diakui sebagai warisan dunia."
     },
     {
         name: "Geopark Silokek",
@@ -879,9 +879,9 @@ var destinations = [
         description: "Taman Kehati menjadi ruang konservasi yang menghadirkan keanekaragaman hayati serta suasana hijau yang menenangkan."
     },
     {
-    name: "Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau (PDIKM)",
-    location: [-0.466, 100.406],
-    description: "PDIKM menjadi jendela budaya Minangkabau dengan koleksi sejarah, rumah gadang megah, dan berbagai informasi tentang adat yang masih lestari hingga kini."
+        name: "Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau (PDIKM)",
+        location: [-0.466, 100.406],
+        description: "PDIKM menjadi jendela budaya Minangkabau dengan koleksi sejarah, rumah gadang megah, dan berbagai informasi tentang adat yang masih lestari hingga kini."
     },
     {
         name: "Minang Fantasi (Mifan)",
@@ -939,9 +939,9 @@ var destinations = [
         description: "Destinasi wisata alam yang menawarkan udara segar, panorama hijau, dan ketenangan khas daerah pegunungan."
     },
     {
-    name: "Ngalau Indah",
-    location: [-0.227, 100.631],
-    description: "Ngalau Indah menawarkan keindahan gua alami dengan stalaktit dan stalagmit yang memukau serta panorama Kota Payakumbuh dari ketinggian."
+        name: "Ngalau Indah",
+        location: [-0.227, 100.631],
+        description: "Ngalau Indah menawarkan keindahan gua alami dengan stalaktit dan stalagmit yang memukau serta panorama Kota Payakumbuh dari ketinggian."
     },
     {
         name: "Batang Tabik",
